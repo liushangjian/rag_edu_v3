@@ -1,4 +1,4 @@
-# edu-rag-v2
+# edu-rag-v3
 
 ## 核心组件
 
