@@ -154,34 +154,38 @@ async def _perform_vector_search():
 
 ## 5. 异步处理流程图
 
-```graph TD
-process_query
-    [用户输入] --> parse_input
-    parse_input --> |UserQuery| 并行任务1
+```mermaid
+graph TD
+    A[用户输入] --> B[parse_input]
+    B --> |UserQuery| C[并行任务1]
     
-    并行任务1
-        _perform_vector_search
-            cn_search_flow
-                _rewrite_cn_query --> vector_search(cn)
-            en_search_flow
-                _rewrite_en_query --> vector_search(en)
-        _get_direct_answer
+    subgraph 并行任务1
+        D[_perform_vector_search]
+        E[_get_direct_answer]
+        
+        subgraph vector_search
+            F[cn_search_flow] --> G[_rewrite_cn_query] --> H[vector_search_cn]
+            I[en_search_flow] --> J[_rewrite_en_query] --> K[vector_search_en]
+        end
+    end
     
-    并行任务1 --> 结果过滤
-        _perform_vector_search --> |search_results| 结果过滤
-        _get_direct_answer --> |direct_answer| 结果过滤
+    C --> D
+    C --> E
     
-    结果过滤 --> 并行任务2
+    D --> |search_results| L[结果过滤]
+    E --> |direct_answer| L
     
-    并行任务2
-        _select_relevant_images
-            [图片评估] --> [筛选结果]
-        _generate_final_answer
-            [参考资料整理] --> [生成答案]
+    L --> M[并行任务2]
     
-    并行任务2 --> [最终结果]
+    subgraph 并行任务2
+        N[_select_relevant_images]
+        O[_generate_final_answer]
+        
+        N --> P[筛选结果]
+        O --> Q[生成答案]
+    end
     
-    [最终结果] --> _save_log{异步}
+    M --> R[最终结果]
+    R --> S[_save_log]
 ```
-
 这个系统通过异步处理和并行执行来优化性能，同时保持了良好的模块化结构和错误处理机制。主要通过 `asyncio` 实现并发，使用 `create_task` 和 `gather` 来管理异步任务。
