@@ -192,23 +192,18 @@ graph TD
     D --> |search_results| L[结果过滤]
     E --> |direct_answer| L
     
-    L --> M[并行任务2]
+    L --> N[_select_relevant_images]
+    L --> O[_generate_final_answer]
     
-    subgraph 并行任务2
-        N[_select_relevant_images]
-        O[_generate_final_answer]
-        
-        N --> P[筛选结果]
-        O --> Q[生成答案]
-    end
+    N --> |images| R[最终结果]
+    O --> |final_answer| R
     
-    M --> R[最终结果]
     R --> S[_save_log]
 
     %% 应用样式
     class A,B input
-    class C,D,E,F,G,H,I,J,K,L,M,N,O process
-    class P,Q,R output
+    class C,D,E,F,G,H,I,J,K,L,N,O process
+    class R output
     class S default
 ```
 这个系统通过异步处理和并行执行来优化性能，同时保持了良好的模块化结构和错误处理机制。主要通过 `asyncio` 实现并发，使用 `create_task` 和 `gather` 来管理异步任务。
