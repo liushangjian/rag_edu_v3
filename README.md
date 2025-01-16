@@ -154,7 +154,7 @@ async def _perform_vector_search():
 
 ## 5. 异步处理流程图
 
-```graphtd
+```graph TD
 process_query
     [用户输入] --> parse_input
     parse_input --> |UserQuery| 并行任务1
