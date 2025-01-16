@@ -155,7 +155,24 @@ async def _perform_vector_search():
 ## 5. 异步处理流程图
 
 ```mermaid
+%%{init: {
+  'theme': 'dark',
+  'themeVariables': {
+    'primaryColor': '#2f3136',
+    'primaryTextColor': '#fff',
+    'primaryBorderColor': '#7289da',
+    'lineColor': '#7289da',
+    'secondaryColor': '#2f3136',
+    'tertiaryColor': '#2f3136'
+  }
+}}%%
 graph TD
+    %% 设置节点样式
+    classDef default fill:#2f3136,stroke:#7289da,color:#fff
+    classDef input fill:#4e5d94,stroke:#7289da,color:#fff
+    classDef process fill:#3b4252,stroke:#7289da,color:#fff
+    classDef output fill:#4c566a,stroke:#7289da,color:#fff
+
     A[用户输入] --> B[parse_input]
     B --> |UserQuery| C[并行任务1]
     
@@ -187,5 +204,11 @@ graph TD
     
     M --> R[最终结果]
     R --> S[_save_log]
+
+    %% 应用样式
+    class A,B input
+    class C,D,E,F,G,H,I,J,K,L,M,N,O process
+    class P,Q,R output
+    class S default
 ```
 这个系统通过异步处理和并行执行来优化性能，同时保持了良好的模块化结构和错误处理机制。主要通过 `asyncio` 实现并发，使用 `create_task` 和 `gather` 来管理异步任务。
