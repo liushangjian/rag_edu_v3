@@ -1,0 +1,516 @@
+{
+  "timestamp": "2025-01-12T03:57:40.329240",
+  "query_info": {
+    "question": "细胞膜的结构是什么",
+    "mode": "answer",
+    "selected_books": [],
+    "vector_search": {
+      "text_recall_limit": 15,
+      "image_recall_limit": 5
+    }
+  },
+  "config": {
+    "filter": {
+      "core_en_weight": 1.05,
+      "filtered_text_limit": 8,
+      "filtered_image_limit": 1
+    }
+  },
+  "processing_results": {
+    "cn_query": "细胞质膜（cytoplasmicmembrane）是完全包围着细胞的一个很薄的结构，只有 $8\\mathbf{nm}$ 厚，这个必不可少的结构是把细胞内部（细胞质）同它的环境分隔开的关键屏障。如果膜破裂，细胞的完整性将受到破坏，细胞质渗透到环境中，从而使细胞死亡。细胞质膜也是一个具有高度选择透性的屏障，它能使细胞浓缩特殊的代谢物，并排泄废物。  \n\n膜的化学组成  \n\n大多数生物膜的一般结构是磷脂双分子层（phospholipidbilayer）（图4.14），正如在3.4节中所讲的那样，磷脂含有疏水区域（脂肪酸）和亲水区域（磷酸甘油）两部分，能以不同的化学形式存在，这种不同形式是甘油骨架中基团变化的结果。当磷脂在水溶液中聚集时，它们自然地形成双分子层结构，脂肪酸互相朝向里面形成一个疏水环境，亲水部分暴露在外部的水环境中（图4.14），膜的双分子层特性是脂分子在水环境中最稳定的排列方式。流  \n\n细胞质膜的薄切片可用电子显微镜观察（图 $4.15\\mathbf{a})$ ，细胞质膜呈现出被一个深色区域隔开的两条较光亮的线（图4.15a）。这通常被称为单位膜（unitmembrane）（因为每个磷脂分子形成半个“单位），由磷脂（图3.7）双分子层组成，蛋白质嵌入其中（图4.16）。细胞质膜的主要蛋白质具有典型的高度疏水的外表面，其中的蛋白质是跨膜的，而亲水的表面与环境和细胞质膜相连（图4.16）。细胞质膜整个结构的稳定性土要依靠氢键和疏水作用，此外，阳离子（如 ${\\bf M}{\\bf g}^{2+}$ 、 $\\mathrm{{Ca^{2+}}}$ ）也与磷脂的负电何给合，灰而有助于膜结构的稳定。  \n\n\n\n\n膜蛋白  \n\n细胞质膜的外表面接触环境，所以细菌肯定具有用来结合底物或携带大分于开将具运进细胞的蛋百质（周质蛋白，见4.7节和4.9节的讨论）。细胞质膜的内层对看细胞质，与进行产能反应和其他重要细胞功能的蛋白质相互作用。",
+    "en_query": "7.1 Cellular membranes are fluid mosaics of lipids and proteins p. 127  \n7.2 Membrane structure results in selective permeability p. 131  \n7.3 Passive transport is diffusion of a substance across a membrane with no energy investment p. 132  \n7.4 Active transport uses energy to move solutes against their gradients p. 136  \n7.5 Bulk transport across the plasma membrane occurs by exocytosis and endocytosis p. 139  \n\nPlant cell walls are made of cellulose fibers embedded in other polysaccharides and proteins.  \nAnimal cells secrete glycoproteins and proteoglycans that form the extracellular matrix (ECM), which functions in support, adhesion, movement, and regulation.  \nCell junctions connect neighboring cells. Plants have plasmodesmata that pass through adjoining cell walls. Animal cells have tight junctions, desmosomes, and gap junctions.  \n\n$\\circledcirc$ Compare the structure and functions of a plant cell wall and the extracellular matrix of an animal cell.  \n\nMany components work together in a functioning cell.  \n\nCyanide binds to at least one molecule involved in producing ATP. In a cell exposed to cyanide, most of the cyanide will be in (A) mitochondria. (C) peroxisomes. (B) ribosomes. (D) lysosomes.  \nWhich cell would be best for studying lysosomes? (A) muscle cell (C) bacterial cell (B) nerve cell (D) phagocytic white blood cell  \n\nDRAW IT Draw two eukaryotic cells. Label the structures listed here and show any physical connections between the structures of each cell: nucleus, rough ER, smooth ER, mitochondrion, centrosome, chloroplast, vacuole, lysosome, microtubule, cell wall, ECM, microfilament, Golgi apparatus, intermediate filament, plasma membrane, peroxisome, ribosome, nucleolus, nuclear pore, vesicle, flagellum, microvilli, plasmodesma.  \n\nEVOLUTION CONNECTION (a) What cell structures best reveal evolutionary unity? (b) Give an example of diversity related to specialized cellular modifications.  \nSCIENTIFIC INQUIRY Imagine protein X, destined to span the plasma membrane; assume the mRNA carrying the genetic message for protein X has been translated by ribosomes in a cell culture. If you fractionate the cells, in which fraction would you find protein X? Explain by describing its transit.  \nWRITE ABOUT A THEME: ORGANIZATION Write a short essay (100–150 words) on this topic: Life is an emergent property that appears at the level of the cell.  \n\nThe cells in this SEM are epithelial cells from the small intestine. Discuss how their cellular structure contributes to their specialized functions of nutrient absorption and as a barrier between the intestinal contents and the blood supply on the other side of the sheet of epithelial cells.",
+    "initial_answer": "细胞膜的结构主要由磷脂双分子层、蛋白质和少量糖类组成。磷脂双分子层是细胞膜的基本骨架，由两层磷脂分子排列而成，亲水头部朝外，疏水尾部朝内。蛋白质镶嵌在磷脂层中，分为跨膜蛋白和表面蛋白，负责物质运输、信号传递等功能。糖类通常与蛋白质或脂类结合形成糖蛋白或糖脂，参与细胞识别和免疫反应。这种结构使细胞膜具有选择透过性，控制物质的进出。",
+    "final_answer": "细胞膜的结构主要由磷脂双分子层、蛋白质和少量糖类组成。磷脂双分子层是细胞膜的基本骨架，由两层磷脂分子排列而成，亲水头部朝外，疏水尾部朝内。这种排列方式使得细胞膜具有疏水性的内部和亲水性的外部，从而形成一个稳定的屏障[《Molecular Biology of The Cell》 | Chapter 10: Membrane Structure]。\n\n蛋白质镶嵌在磷脂层中，分为跨膜蛋白和表面蛋白。跨膜蛋白贯穿整个磷脂双分子层，而表面蛋白则附着在膜的内外表面。这些蛋白质在细胞膜中扮演多种角色，包括物质运输、信号传递和细胞间通讯[《Campbell Biology》 | Chapter 7: Membrane Structure and Function]。\n\n糖类通常与蛋白质或脂类结合形成糖蛋白或糖脂，这些复合物位于细胞膜的外表面，参与细胞识别和免疫反应。例如，糖蛋白在免疫系统中帮助识别外来物质，而糖脂则参与细胞间的信号传递[《Brock 微生物生物学（11上）》 | 第4章 细胞结构与功能]。\n\n这种复杂的结构使细胞膜具有选择透过性，能够控制物质的进出，从而维持细胞内环境的稳定。细胞膜不仅是细胞的物理屏障，还参与了多种生物学过程，如信号转导、细胞识别和物质运输[《细胞生物学 王金发》 | 3 细胞质膜与穿膜运输]。",
+    "formatted_references": "《Campbell Biology》\n  Chapter 7: Membrane Structure and Function\n    Transport Proteins\n      A Panoramic View of the Eukaryotic Cell\n      KEY CONCEPTS (相关度: 1.5973)\n\n《Brock 微生物生物学（11上）》\n  第4章 细胞结构与功能\n    4.12 气泡\n      4.5细胞质膜：结构 (相关度: 1.6803)\n\n《人卫生理学》\n  第二章 细胞的基本功能\n    第一节 细胞膜的物质转运功能\n      一、  细胞膜的化学组成及其分子排列形式 (相关度: 1.6655)\n\n《Molecular Biology of The Cell》\n  Chapter 10: Membrane Structure\n    The Lipid Bilayer\n      THE LIPID BILAYER (相关度: 1.5732)\n\n《Raven Biology of Plants》\n   The Movement of Substances into and out of Cells\n    Structure of Cellular Membranes\n      Structure of Cellular Membranes (相关度: 1.5723)\n\n《细胞生物学 王金发》\n  3 细胞质膜与穿膜运输\n    3.3 膜的化学组成\n      3.1.1细胞的膜结构 (相关度: 1.6483)\n    3.1 概述\n      3.1.2细胞膜的功能 (相关度: 1.6482)"
+  },
+  "performance_metrics": {
+    "total_time": 10.85431694984436,
+    "task_times": {
+      "cn_rewrite": 1.5417821407318115,
+      "cn_search": 0.9452693462371826,
+      "en_rewrite": 1.3687889575958252,
+      "en_search": 1.088057041168213,
+      "查询改写和检索总时间": 2.4940288066864014,
+      "结果过滤时间": 0.0001392364501953125,
+      "初始答案生成时间": 3.3596351146698,
+      "最终答案生成时间": 7.494324207305908
+    }
+  },
+  "citation_analysis": {
+    "tracking": {
+      "extracted_citations": [
+        {
+          "book": "《Molecular Biology of The Cell》",
+          "chapter": "Chapter 10: Membrane Structure",
+          "ref_id": "THE LIPID BILAYER"
+        },
+        {
+          "book": "《细胞生物学 王金发》",
+          "chapter": "3 细胞质膜与穿膜运输",
+          "ref_id": "3.1.2细胞膜的功能"
+        },
+        {
+          "book": "《Brock 微生物生物学（11上）》",
+          "chapter": "第4章 细胞结构与功能",
+          "ref_id": "4.5细胞质膜：结构"
+        },
+        {
+          "book": "《Campbell Biology》",
+          "chapter": "Chapter 7: Membrane Structure and Function",
+          "ref_id": "Transport Proteins"
+        }
+      ],
+      "matched_citations": [],
+      "unmatched_citations": [],
+      "unused_references": [
+        {
+          "book": "Campbell Biology",
+          "chapter": "Chapter 7: Membrane Structure and Function",
+          "unused_ref_ids": [
+            "ref_0",
+            "ref_2"
+          ]
+        },
+        {
+          "book": "Brock 微生物生物学（11上）",
+          "chapter": "第4章 细胞结构与功能",
+          "unused_ref_ids": [
+            "ref_1"
+          ]
+        },
+        {
+          "book": "人卫生理学",
+          "chapter": "第二章 细胞的基本功能",
+          "unused_ref_ids": [
+            "ref_3"
+          ]
+        },
+        {
+          "book": "Molecular Biology of The Cell",
+          "chapter": "Chapter 10: Membrane Structure",
+          "unused_ref_ids": [
+            "ref_4"
+          ]
+        },
+        {
+          "book": "Raven Biology of Plants",
+          "chapter": " The Movement of Substances into and out of Cells",
+          "unused_ref_ids": [
+            "ref_5"
+          ]
+        },
+        {
+          "book": "细胞生物学 王金发",
+          "chapter": "3 细胞质膜与穿膜运输",
+          "unused_ref_ids": [
+            "ref_7",
+            "ref_6"
+          ]
+        }
+      ],
+      "citation_coverage": 0.0
+    },
+    "statistics": {
+      "total_citations": 4,
+      "matched_citations": 0,
+      "unmatched_citations": 0,
+      "citation_coverage": 0.0
+    }
+  },
+  "filtered_results": {
+    "text_references": [
+      {
+        "book": "Campbell Biology",
+        "chapter": "Chapter 7: Membrane Structure and Function",
+        "section": "Transport Proteins",
+        "subsection": "KEY CONCEPTS",
+        "content": "7.1 Cellular membranes are fluid mosaics of lipids and proteins p. 127  \n7.2 Membrane structure results in selective permeability p. 131  \n7.3 Passive transport is diffusion of a substance across a membrane with no energy investment p. 132  \n7.4 Active transport uses energy to move solutes against their gradients p. 136  \n7.5 Bulk transport across the plasma membrane occurs by exocytosis and endocytosis p. 139  \n\nPlant cell walls are made of cellulose fibers embedded in other polysaccharides and proteins.  \nAnimal cells secrete glycoproteins and proteoglycans that form the extracellular matrix (ECM), which functions in support, adhesion, movement, and regulation.  \nCell junctions connect neighboring cells. Plants have plasmodesmata that pass through adjoining cell walls. Animal cells have tight junctions, desmosomes, and gap junctions.  \n\n$\\circledcirc$ Compare the structure and functions of a plant cell wall and the extracellular matrix of an animal cell.  \n\nMany components work together in a functioning cell.  \n\nCyanide binds to at least one molecule involved in producing ATP. In a cell exposed to cyanide, most of the cyanide will be in (A) mitochondria. (C) peroxisomes. (B) ribosomes. (D) lysosomes.  \nWhich cell would be best for studying lysosomes? (A) muscle cell (C) bacterial cell (B) nerve cell (D) phagocytic white blood cell  \n\nDRAW IT Draw two eukaryotic cells. Label the structures listed here and show any physical connections between the structures of each cell: nucleus, rough ER, smooth ER, mitochondrion, centrosome, chloroplast, vacuole, lysosome, microtubule, cell wall, ECM, microfilament, Golgi apparatus, intermediate filament, plasma membrane, peroxisome, ribosome, nucleolus, nuclear pore, vesicle, flagellum, microvilli, plasmodesma.  \n\nEVOLUTION CONNECTION (a) What cell structures best reveal evolutionary unity? (b) Give an example of diversity related to specialized cellular modifications.  \nSCIENTIFIC INQUIRY Imagine protein X, destined to span the plasma membrane; assume the mRNA carrying the genetic message for protein X has been translated by ribosomes in a cell culture. If you fractionate the cells, in which fraction would you find protein X? Explain by describing its transit.  \nWRITE ABOUT A THEME: ORGANIZATION Write a short essay (100–150 words) on this topic: Life is an emergent property that appears at the level of the cell.  \n\nThe cells in this SEM are epithelial cells from the small intestine. Discuss how their cellular structure contributes to their specialized functions of nutrient absorption and as a barrier between the intestinal contents and the blood supply on the other side of the sheet of epithelial cells.",
+        "similarity": 1.6083074808120728
+      },
+      {
+        "book": "Brock 微生物生物学（11上）",
+        "chapter": "第4章 细胞结构与功能",
+        "section": "4.12 气泡",
+        "subsection": "4.5细胞质膜：结构",
+        "content": "细胞质膜（cytoplasmicmembrane）是完全包围着细胞的一个很薄的结构，只有 $8\\mathbf{nm}$ 厚，这个必不可少的结构是把细胞内部（细胞质）同它的环境分隔开的关键屏障。如果膜破裂，细胞的完整性将受到破坏，细胞质渗透到环境中，从而使细胞死亡。细胞质膜也是一个具有高度选择透性的屏障，它能使细胞浓缩特殊的代谢物，并排泄废物。  \n\n膜的化学组成  \n\n大多数生物膜的一般结构是磷脂双分子层（phospholipidbilayer）（图4.14），正如在3.4节中所讲的那样，磷脂含有疏水区域（脂肪酸）和亲水区域（磷酸甘油）两部分，能以不同的化学形式存在，这种不同形式是甘油骨架中基团变化的结果。当磷脂在水溶液中聚集时，它们自然地形成双分子层结构，脂肪酸互相朝向里面形成一个疏水环境，亲水部分暴露在外部的水环境中（图4.14），膜的双分子层特性是脂分子在水环境中最稳定的排列方式。流  \n\n细胞质膜的薄切片可用电子显微镜观察（图 $4.15\\mathbf{a})$ ，细胞质膜呈现出被一个深色区域隔开的两条较光亮的线（图4.15a）。这通常被称为单位膜（unitmembrane）（因为每个磷脂分子形成半个“单位），由磷脂（图3.7）双分子层组成，蛋白质嵌入其中（图4.16）。细胞质膜的主要蛋白质具有典型的高度疏水的外表面，其中的蛋白质是跨膜的，而亲水的表面与环境和细胞质膜相连（图4.16）。细胞质膜整个结构的稳定性土要依靠氢键和疏水作用，此外，阳离子（如 ${\\bf M}{\\bf g}^{2+}$ 、 $\\mathrm{{Ca^{2+}}}$ ）也与磷脂的负电何给合，灰而有助于膜结构的稳定。  \n\n\n\n\n膜蛋白  \n\n细胞质膜的外表面接触环境，所以细菌肯定具有用来结合底物或携带大分于开将具运进细胞的蛋百质（周质蛋白，见4.7节和4.9节的讨论）。细胞质膜的内层对看细胞质，与进行产能反应和其他重要细胞功能的蛋白质相互作用。",
+        "similarity": 1.680264949798584
+      },
+      {
+        "book": "Campbell Biology",
+        "chapter": "Chapter 7: Membrane Structure and Function",
+        "section": "Transport Proteins",
+        "subsection": "A Panoramic View of the Eukaryotic Cell",
+        "content": "In addition to the plasma membrane at its outer surface, a eukaryotic cell has extensive, elaborately arranged internal membranes that divide the cell into compartments—the organelles mentioned earlier. The cell’s compartments provide different local environments that support specific metabolic functions, so incompatible processes can occur simultaneously in a single cell. The plasma membrane and organelle membranes also participate directly in the cell’s metabolism because many enzymes are built right into the membranes.\n\nThe basic fabric of most biological membranes is a double layer of phospholipids and other lipids. Embedded in this lipid bilayer or attached to its surfaces are diverse proteins. However, each type of membrane has a unique composition of lipids and proteins suited to that membrane’s specific functions. For example, enzymes embedded in the membranes of the organelles called mitochondria function in cellular respiration. Because membranes are so fundamental to the organization of the cell, Chapter 7 will discuss them in detail.\n\nBefore continuing with this chapter, examine the eukaryotic cells. The generalized diagrams of an animal cell and a plant cell introduce the various organelles and show the key differences between animal and plant cells. The micrographs at the bottom of the figure give you a glimpse of cells from different types of eukaryotic organisms.",
+        "similarity": 1.5862882137298584
+      },
+      {
+        "book": "人卫生理学",
+        "chapter": "第二章 细胞的基本功能",
+        "section": "第一节 细胞膜的物质转运功能",
+        "subsection": "一、  细胞膜的化学组成及其分子排列形式",
+        "content": "细胞膜（cell membrane）也称质膜（plasma membrane），是分隔细胞质与细胞周围环境的一层膜结构，厚度 $7{\\sim}8\\mathrm{nm}$ 。细胞膜和细胞器的膜结构及其化学组成基本相同，主要由脂质、蛋白质及少量糖类物质组成。其中，蛋白质和脂质的比例在不同种类的细胞可相差很大。一般而言，在功能活跃的细胞，膜蛋白含量较高；反之则相对较低。例如，膜蛋白与膜脂质在小肠黏膜上皮细胞膜中的重量比可高达 $4.6:1$ ，而在构成神经纤维髓鞘的施万细胞膜中仅为 $0.25:1$ 。关于各种化学成分在膜中排列的形式，目前广为接受的是辛格（Singer）和尼克森（Nicholson）于1972 年提出的液态镶嵌模型（fluidmosaic model）学说。这一学说认为，液态脂质双层构成膜的基本构架，不同结构和功能的蛋白质镶嵌在其中，而糖类分子则与脂质、蛋白结合后附在质膜的外表面（图2-1）。  \n\n\n\n\n虽然多数细胞的膜蛋白质总重量大于脂质，但由于蛋白质的分子量比脂质大得多，所以脂质的分子数实际上远多于蛋白质。因而，脂质构成了细胞膜的基本构架，其所形成的脂质双层连续覆盖在整个细胞膜的表面。膜脂质主要由磷脂（phospholipid）、胆固醇（cholesterol）和少量糖脂（glycolipid）构成。在大多数细胞的膜脂质中，磷脂占总量的 $70\\%$ 以上，胆固醇不超过 $30\\%$ ，糖脂不超过 $10\\%$ 。磷脂是一类含有磷酸的脂类，磷脂中含量最多的是磷脂酰胆碱，其次是磷脂酰丝氨酸和磷脂酰乙醇胺，含量最低的是磷脂酰肌醇。各种膜脂质在膜上的分布是不对称的。大部分的磷脂酰胆碱和全部的糖脂都分布在膜的外层，含氨基酸的磷脂（磷脂酰丝氨酸、磷脂酰乙醇胺、磷脂酰肌醇）主要分布在膜的内层。",
+        "similarity": 1.6654666662216187
+      },
+      {
+        "book": "Molecular Biology of The Cell",
+        "chapter": "Chapter 10: Membrane Structure",
+        "section": "The Lipid Bilayer",
+        "subsection": "THE LIPID BILAYER",
+        "content": "Cell membranes are crucial to the life of the cell. The plasma membrane encloses the cell, defines its boundaries, and maintains the essential differences between the cytosol and the extracellular environment. Without plasma membranes, cells could not have evolved as individual self-replicating units. Inside eukaryotic cells, the membranes of the nucleus, endoplasmic reticulum, Golgi apparatus, mitochondria, and other membrane-enclosed organelles maintain the characteristic differences between the contents of each organelle and the cytosol. Ion gradients across membranes, established by the activities of specialized membrane proteins, can be used to synthesize ATP, to drive the transport of selected solutes across the membrane, or, as in nerve and muscle cells, to produce and transmit electrical signals. In all cells, the plasma membrane also contains proteins that act as sensors of external signals, allowing the cell to change its behavior in response to environmental cues, including signals from other cells; these protein sensors, or receptors, transfer information—rather than molecules—across the membrane.\n\nDespite their differing functions, all biological membranes have a common general structure: each is a very thin film of lipid and protein molecules, held together mainly by noncovalent interactions. Cell membranes are dynamic, fluid structures, and most of their molecules move about in the plane of the membrane. The lipid molecules are arranged as a continuous double layer about $5\\,\\mathrm{nm}$ thick. This lipid bilayer provides the basic fluid structure of the membrane and serves as an essentially impermeable barrier to the passage of most water-soluble molecules. Most membrane proteins span the lipid bilayer and mediate nearly all of the other functions of the membrane, including the transport of specific molecules across it, and the catalysis of membrane-associated reactions such as ATP synthesis. In the plasma membrane, some transmembrane proteins serve as structural links that connect the cytoskeleton through the lipid bilayer to either the extracellular matrix or an adjacent cell, while others serve as receptors to detect and transduce chemical signals in the cell’s environment. It takes many kinds of membrane proteins to enable a cell to function and interact with its environment, and it is estimated that about $30\\%$ of the proteins encoded in an animal’s genome are membrane proteins.\n\nIn this chapter, we consider the structure and organization of the two main constituents of biological membranes—the lipids and the proteins. Although we focus mainly on the plasma membrane, most concepts discussed apply to the various internal membranes of eukaryotic cells as well. The functions of cell membranes are considered in later chapters: their role in energy conversion and ATP synthesis, for example, is discussed in Chapter 14; their role in the transmembrane transport of small molecules in Chapter 11; and their roles in cell signaling and cell adhesion in Chapters 15 and 19, respectively. In Chapters 12 and 13, we discuss the internal membranes of the cell and the protein traffic through and between them.",
+        "similarity": 1.5731694102287292
+      },
+      {
+        "book": "Raven Biology of Plants",
+        "chapter": " The Movement of Substances into and out of Cells",
+        "section": "Structure of Cellular Membranes",
+        "subsection": "Structure of Cellular Membranes",
+        "content": "All of the membranes of the cell have the same basic structure, consisting of a lipid bilayer in which are embedded globular proteins, many of which extend across the bilayer and protrude on either side (Figure 4–9). The portion of these transmembrane proteins embedded in the bilayer is hydrophobic, whereas the portions exposed on either side of the membrane are hydrophilic.",
+        "similarity": 1.5722718238830566
+      },
+      {
+        "book": "细胞生物学 王金发",
+        "chapter": "3 细胞质膜与穿膜运输",
+        "section": "3.3 膜的化学组成",
+        "subsection": "3.1.1细胞的膜结构",
+        "content": "细胞膜（cellmembrane）是细胞膜结构的总称，它包括细胞外层的膜和存在于细胞质中的膜，有时也特指细胞质膜。  \n\n质膜（plasmamembrane）是指包围在细胞表面的一层极薄的膜，主要由膜脂和膜蛋白所组成。质膜的基本作用是维护细胞内微环境的相对稳定，并参与同外界环境进行物质交换、能量和信息传递。另外，在细胞的生存、生长、分裂、分化中起重要作用。  \n\n真核生物除了具有细胞表面膜外，细胞质中还有许多由膜分隔成的各种细胞器。这些细胞器的膜结构与质膜相似，但功能有所不同，这些膜称为内膜（internalmembrane）或胞质膜（cytoplasmicmembrane）。内膜包括细胞核膜、内质网膜、高尔基体膜等。由于细菌没有内膜，所以细菌的细胞质膜代行胞内膜的作用。  \n\n习惯上把细胞所有的膜结构统称为生物膜（biomembrane或biologicalmembrane），实际上它是细胞内膜和质膜的总称。生物膜是细胞的基本结构，它不仅具有界膜的作用，还参与全部的生命活动。",
+        "similarity": 1.648300290107727
+      },
+      {
+        "book": "细胞生物学 王金发",
+        "chapter": "3 细胞质膜与穿膜运输",
+        "section": "3.1 概述",
+        "subsection": "3.1.2细胞膜的功能",
+        "content": "真核细胞具有丰富的膜结构，了解膜的功能对于理解细胞膜的结构和细胞的生命活动是十分重要的。细胞膜的结构体系和功能如图3-1所示。  \n\n\n1）界膜和区室化（delineationandcompartmentalization)细胞膜最重要的作用就是确定了细胞的边界，并且在细胞质中划分了许多以膜包 被的区室。作为界膜的膜结构对于细胞生命的进化具有重要意义，这种界膜不仅使生命进化到细胞的生命形式，也保证了细胞生命的正常进行，它使遗传物质和其他参与生命活动的生物大分子相对集中在一个安全的微环境中，有利于细胞的物质和能量代谢。细胞内空间的区室化不仅扩大了膜的表面积，还使细胞的生命活动更加高效和有序。  \n\n2）调节运输（regulationof transport）膜为两侧的分子交换提供了一个屏障，一方面可以让某些物质“自由通透”，另一方面又作为某些物质出人细胞的障碍。膜对物质的运输具有选择性，有些物质在细胞内的浓度很高，有些物质只能沿浓度梯 度进人细胞，这需要通过特殊的运输机制来调节。  \n\n3）功能定位与组织化（localization andorganization offunction)细胞膜的另一个重要功能就是通过形成膜性细胞器，使细胞的功能定位在一定的细胞结构并组成相互协作的系统。例如，细胞质中的内质网、高尔基体等膜性细胞器的基本功能是参与蛋白质的合成、加工和运输；而溶酶体的功能是起消化作用，酸性水解酶主要集中在溶酶体。又如，线粒体内膜的主要功能是进行氧化磷酸化，与该功能有关的酶和蛋白复合体集中排列在线粒体内膜上。叶绿体的类囊体是光合作用的光反应场所，所以在类囊体膜中聚集着与光能捕获、电子传递和光合磷酸化相关的功能蛋白及酶。  \n\n4）信号的检测与传递（detectionandtransmissionofsignal)细胞通常用质膜中的受体蛋白从环境中感知并接收化学信号和电信号。细胞质膜中具有各种不同的受体，能够识别并结合特异的配体进行信号传递，引起细胞内的反应。例如，细胞通过质膜受体接收的信号决定对糖原的合成或分解，膜受体接收的某些信号则与细胞分裂有关。",
+        "similarity": 1.6481764316558838
+      }
+    ],
+    "image_references": [
+      {
+        "book": "基础生物化学原理",
+        "image_path": "4 基础生物化学原理_origin_page_108_图_10.5.png",
+        "content": "该图示展示细胞膜的结构与功能，属于细胞结构图。\n\n图中展示的是细胞膜的基本组成，主要包括磷脂双层结构。脂质分子呈现为两层，相互交错形成膜的基本框架，磷脂的亲水头部面向外部与内细胞质，亲脂尾部则聚集在双层内部，形成选择性通透的屏障。此外，图中可能还有膜蛋白的分布，参与物质运输和信号传导，箭头指示特定物质的进出路径，标注则表明膜的功能区分。\n\n该图有助于学生理解细胞膜的构造与其在细胞生理中的重要性，强调了膜的选择性和动态性质。\n\n在生物医学领域，细胞膜的研究是药物递送系统、细胞信号传导等的基础。膜的功能和结构与其他细胞器，如内质网和高尔基体，密切相关，共同调控细胞的生理活动。",
+        "similarity": 1.6839419603347778
+      }
+    ]
+  },
+  "book_validation": {
+    "original_books": [],
+    "invalid_books": [],
+    "valid_books": [],
+    "using_default_list": true
+  },
+  "raw_search_results": {
+    "cn": {
+      "text": [
+        {
+          "book": "Brock 微生物生物学（11上）",
+          "chapter": "第4章 细胞结构与功能",
+          "section": "4.12 气泡",
+          "subsection": "4.5细胞质膜：结构",
+          "content": "细胞质膜（cytoplasmicmembrane）是完全包围着细胞的一个很薄的结构，只有 $8\\mathbf{nm}$ 厚，这个必不可少的结构是把细胞内部（细胞质）同它的环境分隔开的关键屏障。如果膜破裂，细胞的完整性将受到破坏，细胞质渗透到环境中，从而使细胞死亡。细胞质膜也是一个具有高度选择透性的屏障，它能使细胞浓缩特殊的代谢物，并排泄废物。  \n\n膜的化学组成  \n\n大多数生物膜的一般结构是磷脂双分子层（phospholipidbilayer）（图4.14），正如在3.4节中所讲的那样，磷脂含有疏水区域（脂肪酸）和亲水区域（磷酸甘油）两部分，能以不同的化学形式存在，这种不同形式是甘油骨架中基团变化的结果。当磷脂在水溶液中聚集时，它们自然地形成双分子层结构，脂肪酸互相朝向里面形成一个疏水环境，亲水部分暴露在外部的水环境中（图4.14），膜的双分子层特性是脂分子在水环境中最稳定的排列方式。流  \n\n细胞质膜的薄切片可用电子显微镜观察（图 $4.15\\mathbf{a})$ ，细胞质膜呈现出被一个深色区域隔开的两条较光亮的线（图4.15a）。这通常被称为单位膜（unitmembrane）（因为每个磷脂分子形成半个“单位），由磷脂（图3.7）双分子层组成，蛋白质嵌入其中（图4.16）。细胞质膜的主要蛋白质具有典型的高度疏水的外表面，其中的蛋白质是跨膜的，而亲水的表面与环境和细胞质膜相连（图4.16）。细胞质膜整个结构的稳定性土要依靠氢键和疏水作用，此外，阳离子（如 ${\\bf M}{\\bf g}^{2+}$ 、 $\\mathrm{{Ca^{2+}}}$ ）也与磷脂的负电何给合，灰而有助于膜结构的稳定。  \n\n\n\n\n膜蛋白  \n\n细胞质膜的外表面接触环境，所以细菌肯定具有用来结合底物或携带大分于开将具运进细胞的蛋百质（周质蛋白，见4.7节和4.9节的讨论）。细胞质膜的内层对看细胞质，与进行产能反应和其他重要细胞功能的蛋白质相互作用。",
+          "similarity": 1.680264949798584
+        },
+        {
+          "book": "人卫生理学",
+          "chapter": "第二章 细胞的基本功能",
+          "section": "第一节 细胞膜的物质转运功能",
+          "subsection": "一、  细胞膜的化学组成及其分子排列形式",
+          "content": "细胞膜（cell membrane）也称质膜（plasma membrane），是分隔细胞质与细胞周围环境的一层膜结构，厚度 $7{\\sim}8\\mathrm{nm}$ 。细胞膜和细胞器的膜结构及其化学组成基本相同，主要由脂质、蛋白质及少量糖类物质组成。其中，蛋白质和脂质的比例在不同种类的细胞可相差很大。一般而言，在功能活跃的细胞，膜蛋白含量较高；反之则相对较低。例如，膜蛋白与膜脂质在小肠黏膜上皮细胞膜中的重量比可高达 $4.6:1$ ，而在构成神经纤维髓鞘的施万细胞膜中仅为 $0.25:1$ 。关于各种化学成分在膜中排列的形式，目前广为接受的是辛格（Singer）和尼克森（Nicholson）于1972 年提出的液态镶嵌模型（fluidmosaic model）学说。这一学说认为，液态脂质双层构成膜的基本构架，不同结构和功能的蛋白质镶嵌在其中，而糖类分子则与脂质、蛋白结合后附在质膜的外表面（图2-1）。  \n\n\n\n\n虽然多数细胞的膜蛋白质总重量大于脂质，但由于蛋白质的分子量比脂质大得多，所以脂质的分子数实际上远多于蛋白质。因而，脂质构成了细胞膜的基本构架，其所形成的脂质双层连续覆盖在整个细胞膜的表面。膜脂质主要由磷脂（phospholipid）、胆固醇（cholesterol）和少量糖脂（glycolipid）构成。在大多数细胞的膜脂质中，磷脂占总量的 $70\\%$ 以上，胆固醇不超过 $30\\%$ ，糖脂不超过 $10\\%$ 。磷脂是一类含有磷酸的脂类，磷脂中含量最多的是磷脂酰胆碱，其次是磷脂酰丝氨酸和磷脂酰乙醇胺，含量最低的是磷脂酰肌醇。各种膜脂质在膜上的分布是不对称的。大部分的磷脂酰胆碱和全部的糖脂都分布在膜的外层，含氨基酸的磷脂（磷脂酰丝氨酸、磷脂酰乙醇胺、磷脂酰肌醇）主要分布在膜的内层。",
+          "similarity": 1.6654666662216187
+        },
+        {
+          "book": "细胞生物学 王金发",
+          "chapter": "3 细胞质膜与穿膜运输",
+          "section": "3.3 膜的化学组成",
+          "subsection": "3.1.1细胞的膜结构",
+          "content": "细胞膜（cellmembrane）是细胞膜结构的总称，它包括细胞外层的膜和存在于细胞质中的膜，有时也特指细胞质膜。  \n\n质膜（plasmamembrane）是指包围在细胞表面的一层极薄的膜，主要由膜脂和膜蛋白所组成。质膜的基本作用是维护细胞内微环境的相对稳定，并参与同外界环境进行物质交换、能量和信息传递。另外，在细胞的生存、生长、分裂、分化中起重要作用。  \n\n真核生物除了具有细胞表面膜外，细胞质中还有许多由膜分隔成的各种细胞器。这些细胞器的膜结构与质膜相似，但功能有所不同，这些膜称为内膜（internalmembrane）或胞质膜（cytoplasmicmembrane）。内膜包括细胞核膜、内质网膜、高尔基体膜等。由于细菌没有内膜，所以细菌的细胞质膜代行胞内膜的作用。  \n\n习惯上把细胞所有的膜结构统称为生物膜（biomembrane或biologicalmembrane），实际上它是细胞内膜和质膜的总称。生物膜是细胞的基本结构，它不仅具有界膜的作用，还参与全部的生命活动。",
+          "similarity": 1.648300290107727
+        },
+        {
+          "book": "细胞生物学 王金发",
+          "chapter": "3 细胞质膜与穿膜运输",
+          "section": "3.1 概述",
+          "subsection": "3.1.2细胞膜的功能",
+          "content": "真核细胞具有丰富的膜结构，了解膜的功能对于理解细胞膜的结构和细胞的生命活动是十分重要的。细胞膜的结构体系和功能如图3-1所示。  \n\n\n1）界膜和区室化（delineationandcompartmentalization)细胞膜最重要的作用就是确定了细胞的边界，并且在细胞质中划分了许多以膜包 被的区室。作为界膜的膜结构对于细胞生命的进化具有重要意义，这种界膜不仅使生命进化到细胞的生命形式，也保证了细胞生命的正常进行，它使遗传物质和其他参与生命活动的生物大分子相对集中在一个安全的微环境中，有利于细胞的物质和能量代谢。细胞内空间的区室化不仅扩大了膜的表面积，还使细胞的生命活动更加高效和有序。  \n\n2）调节运输（regulationof transport）膜为两侧的分子交换提供了一个屏障，一方面可以让某些物质“自由通透”，另一方面又作为某些物质出人细胞的障碍。膜对物质的运输具有选择性，有些物质在细胞内的浓度很高，有些物质只能沿浓度梯 度进人细胞，这需要通过特殊的运输机制来调节。  \n\n3）功能定位与组织化（localization andorganization offunction)细胞膜的另一个重要功能就是通过形成膜性细胞器，使细胞的功能定位在一定的细胞结构并组成相互协作的系统。例如，细胞质中的内质网、高尔基体等膜性细胞器的基本功能是参与蛋白质的合成、加工和运输；而溶酶体的功能是起消化作用，酸性水解酶主要集中在溶酶体。又如，线粒体内膜的主要功能是进行氧化磷酸化，与该功能有关的酶和蛋白复合体集中排列在线粒体内膜上。叶绿体的类囊体是光合作用的光反应场所，所以在类囊体膜中聚集着与光能捕获、电子传递和光合磷酸化相关的功能蛋白及酶。  \n\n4）信号的检测与传递（detectionandtransmissionofsignal)细胞通常用质膜中的受体蛋白从环境中感知并接收化学信号和电信号。细胞质膜中具有各种不同的受体，能够识别并结合特异的配体进行信号传递，引起细胞内的反应。例如，细胞通过质膜受体接收的信号决定对糖原的合成或分解，膜受体接收的某些信号则与细胞分裂有关。",
+          "similarity": 1.6481764316558838
+        },
+        {
+          "book": "基础生命科学",
+          "chapter": "第三章 细胞——生命的基本单位",
+          "section": "第三节 生物膜",
+          "subsection": "一、细胞膜和细胞壁",
+          "content": "细胞膜又称质膜，厚度一般为 $7\\sim8~\\mathrm{nm}$ ，是脂质双分子层和蛋白质构成的界膜（图3-8），任何物质出入细胞必须要通过细胞膜。在细胞膜上有一些作为特殊分子或离子进出细胞的载体蛋白和通道蛋白，因此细胞膜具有选择透性或半透性，可有选择地让物质通过。细胞膜还有一些起识别和接收信息作用的蛋白质，这些蛋白质称为膜受体（receptor），如激素（hormone）的受体、与抗原结合的受体或其他特殊信息分子的受体等等。这些受体接受外界信息后可诱导细胞内发生相应的变化或反应。另外，细胞膜上还有一些与其他细胞或大分子相互识别的标志蛋白等等。细胞膜内是透明黏稠可流动的细胞质基质。真核细胞除了具有细胞表面膜外，细胞质中还有许多由膜分隔成的各种细胞器，这些细胞器的膜结构与质膜相似，但功能有所不同，这些膜称为内膜（internalmembrane），或胞质膜（cytoplasmicmembrane）。内膜包括细胞核膜、内质网膜、高尔基体膜等。  \n\n细胞膜属于生物膜，生物膜的结构与功能是现代生命科学最重要的研究领域之一，在本章第三节将专门讨论生物膜的问题。  \n\n植物细胞没有骨骼或相应的骨架结构，但却有相当强度的细胞壁，维持着植物细胞的形态。细胞壁保护细胞免遭渗透及机械损伤，还保护植物免受微生物，特别是真菌和细菌的侵染。细胞壁控制着原生质体的大小，也防止原生质体过度吸水引起质膜破裂，因此具有支持和保护植物细胞的功能。研究发现，细胞壁在物质吸收、转运和接收化学信号、抵御病原菌的侵害等方面也有重要作用。植物细胞膜外的细胞壁，厚度在 $0.1~\\upmu\\mathfrak{m}$ 至儿 $\\upmu\\mathrm{m}$ 之间，一般比细胞膜厚很多（图3-9）。  \n\n植物细胞壁中最主要成分是纤维素。",
+          "similarity": 1.643709659576416
+        },
+        {
+          "book": "杨荣武生物化学原理",
+          "chapter": "第三章 蛋白质的功能及其与结构之间的关系",
+          "section": "第三节 几种重要的蛋白质的结构与功能",
+          "subsection": "三、膜蛋白的结构与功能",
+          "content": "细胞内有1/3\\~1/2的蛋白质与膜结合或镶嵌在膜内，这些蛋白质统称为膜蛋白。生物膜的各项功能主要是由各种结构不同的膜蛋白完成的。根据与脂双层膜联系的方式，膜蛋白可分为外在蛋白、内在蛋白和脂锚定蛋白。其中外在蛋白也称为外周蛋白，它们仅与膜的表面保持接触，是可溶性的，与球状蛋白质非常相似，如细胞色素c；内在蛋白则镶嵌在膜上，与膜融为一体，其结构比较复杂；脂锚定蛋白通过与其共价连接的疏水基团锚定在膜上（参见第十六章“脂质与生物膜”）  \n\n膜内在蛋白镶嵌于膜脂的特性，使这一类蛋白质经常位于细胞与外部环境的交界处，介导细胞与外界之间的信号转导，并执行很多重要的细胞功能。例如，它们作为各种神经递质、水溶性激素和其他配体的受体，构成各种跨膜的离子通道及转运蛋白等。但是，膜内在蛋白的疏水特性使其需要与生物膜共同形成稳定的天然构象，这大大增加了研究的难度。  \n\n与研究球状蛋白一样，要真正地理解膜蛋白的功能，首先需要确定它们的三维结构。然而，研究膜内在蛋白的三维结构并非易事，其困难集中反映在以下3个方面：  \n\n（1）含量低例如一些跨膜受体蛋白的含量为微克级，而应用基因工程方法大量表达膜内在蛋白也存在着很大的困难。因此，迄今为止其精细结构已被解析的主要是天然含量本来就高的膜内在蛋白，如牛心线粒体细胞色素c氧化酶、细胞色素 $\\mathrm{bc}_{1}$ 复合体、植物光合作用的聚光复合体、紫色细菌光合反应中心、嗜盐古菌菌紫红质和细菌膜孔蛋白等。  \n\n(2）分离、纯化比较困难只有用较剧烈的条件（如去垢剂、有机溶剂和超声波）才能将它们溶解下来，而分离后一旦除去去垢剂或有机溶剂，它们很容易聚合为不溶物。  \n\n(3）结晶困难这就限制了使用X射线晶体衍射对其结构的解析。",
+          "similarity": 1.6385241746902466
+        },
+        {
+          "book": "普通动物学",
+          "chapter": "第2章 动物体的基本结构与机能",
+          "section": "2.1 细胞",
+          "subsection": "2.1.3细胞的结构",
+          "content": "细胞是一团原生质（protoplasm），由它分化出细胞膜、细胞核、细胞质和各种细胞器等(图2-4)。原生质这个概念一直在沿用着，有人认为从分子水平看，原生质这个名称是笼统的、不明确的。  \n\n\n\n细胞膜包围在细胞的表面，为极薄的膜。一般在光学显微镜下看不见。不过，在显微解剖镜下，如用微针轻轻地压细胞的表面，可见细胞有明显的皱纹。如果把不能透过细胞膜的染料用微吸管注入细胞，结果细胞就变得有颜色，而且只限在质膜以内。用电子显微镜观察，大部分细胞膜为3层（内外两层为致密层，中间夹着不太致密的一层），称为单位膜（unitmembrane），厚度一般为 $5\\sim10~\\mathrm{nm}$ ，主要由蛋白质和脂质构成。一般认为两层致密层相当于蛋白质成分，中间的一层由两层磷脂分子所组成（不同种膜的脂质和蛋白质的化学组成不同)，蛋白质排列很不规则，在磷脂双分子层的内外表面，并以不同的深度伸进脂质双分子层中，有的从膜内伸到膜外（图2-5）。对膜的分子结构存在着不同的看法。20世纪70年代以来，不少科学家用各种物理化学新技术研究膜的结构，提出膜不是静止的，而是动态的结构。主要认为质膜是由连续的脂质双分子层和球形蛋白分子构成的流体。由于膜脂具有流动性，所以质膜也有流动性。现在对膜的分子结构已有较为一致的看法（图2-5）。细胞膜有维持细胞内环境恒定的作用，通过细胞膜有选择地从周围环境吸收养分，并将代谢产物排出细胞外。现在已有大量实验证据说明，细胞膜上的各种蛋白质，特别是酶，对多种物质出入细胞起着关键性作用。同时细胞膜还有信息传递、代谢调控、细胞识别与免疫等作用。正确认识细胞膜的结构与机能，对深入了解有关人和动物的一些生理机能的作用机制、对控制动物和医学实践都有重要意义。",
+          "similarity": 1.6329718828201294
+        },
+        {
+          "book": "生物化学简明教程",
+          "chapter": "5 脂质和生物膜",
+          "section": "5.6 生物膜",
+          "subsection": "5.6.1细胞中的膜系统",
+          "content": "细胞中各种不同的膜统称为生物膜，包括质膜（细胞膜）、细胞核膜、线粒体膜、内质网膜、溶酶体膜、高尔基体膜等。生物膜以不同的形式存在，而且功能也各有差异。但不同的膜系统在电镜下却表现出大体相同的形态，即厚度为 $6\\sim9~\\mathrm{nm}$ 的3片层结构。生物膜结构是细胞结构的基本形式，它对细胞内很多生物大分子的有序反应和整个细胞的区域化都提供了必需的结构基础，从而使整个细胞活动能够有条不素、协调一致地进行。  \n\n生物体内许多重要活动，如物质运输、能量转换、细胞识别、细胞免疫、信号转导、神经传导和代谢调控等都与生物膜密切相关。",
+          "similarity": 1.6310784816741943
+        },
+        {
+          "book": "细胞生物学",
+          "chapter": "第二章 细胞质膜",
+          "section": "第一节 细胞质膜的结构模型与基本成分",
+          "subsection": "三、细胞质膜相关的膜骨架",
+          "content": "细胞质膜特别是膜蛋白常常与膜下结构（主要是细胞骨架系统）相互联系、协同作用，维持膜的形态并形成细胞表面的某些特化结构以完成特定的功能。这些特化结构包括鞭毛（flagellum）、纤毛（cilium）（见图3-4）、微绒毛（microvillus）及细胞的变形足（lamellipodia）等，分别与细胞形态的维持、细胞运动、细胞的物质交换和信息传递等功能有关。其基本结构与功能将在第八章中详细阐述。因此本节仅介绍有关膜骨架（membrane associatedcytoskeleton）的一些知识。  \n\n\n\n膜骨架是指细胞质膜下与膜蛋白相连的由纤维蛋白组成的网架结构，它从力学上参与维持细胞质膜的形状并协助质膜完成多种生理功能。因为膜骨架多与肌动蛋白（actin）相关联，因此也称基于肌动蛋白的膜骨架（actin-basedmembrane skeleton）。早期人们应用光学显微镜曾注意到在细胞质膜下存在约 $0.2~{\\upmu\\mathrm{m}}$ 厚的、观察不到任何细胞结构的“溶胶层”，又称细胞的皮层(cortex）。电镜技术出现以后，才发现质膜下的溶胶层中含有丰富的细胞骨架纤维（如微丝等），这些骨架纤维通过膜骨架与质膜相连。多数细胞的细胞质膜下，也都存在精细而复杂的细胞骨架网络，但至今为止，对膜骨架研究最多的还是哺乳动物的红细胞。  \n\n\n\n红细胞负责把 $\\mathrm{O}_{z}$ 从肺运送到体内各组织，同时把细胞代谢产生的 $\\mathrm{CO}_{2}$ 运回肺中。哺乳动物成熟的红细胞没有细胞核和内膜系统，所以红细胞的质膜是最简单最易研究的生物膜。正常情况下，红细胞呈双凹形的椭球结构，直径约 $7\\,\\upmu\\mathrm{m}$ ，但它可以通过直径比自己更小的毛细血管。在其平均寿命约120天的期间内，人的红细胞往返于动脉和静脉达几百万次，行程约 $480~\\mathrm{km}$ 而不破损，这就需要红细胞质膜既有很好的弹性又具有较高的强度。红细胞质膜的这些特性在很大程度上是由膜骨架赋予的。",
+          "similarity": 1.6251401901245117
+        },
+        {
+          "book": "植物生理学 武维华",
+          "chapter": "第一章 植物细胞",
+          "section": "第六节 植物细胞信号转导概述",
+          "subsection": "一、质膜",
+          "content": "质膜（plasmamembrane）也称细胞膜，是指包围着原生质的一层界膜。质膜的存在使细胞相对独立于外界环境，因而生命活动得以在一个相对稳定的微环境中进行；同时质膜又在细胞与外界环境进行不断的物质交换和信息交流过程中起着非常重要的作用。  \n\n（一）质膜的主要化学组成质膜主要由膜脂和膜蛋白构成。  \n\n\n\n（1）磷脂磷脂是构成膜脂的基本成分，占整个膜脂的 $50\\%$ 以上。磷脂可分为甘油磷脂和鞘磷脂两类。甘油磷脂又包括磷脂酰胆碱（卵磷 脂）、磷脂酰丝氨酸、磷脂酰乙醇胺、磷脂酰肌醇等。磷脂分子由一个磷脂酰碱基（称为头部）和两条脂肪酸链（称为尾部）所组成，磷脂酰碱基和脂 肪酸链两部分通过甘油基团衔接。磷脂酰碱基头部有磷酸和碱基，极性很强，亲水，而脂肪酸链的尾部为非极性，疏水。因此磷脂分子具有亲水和疏水的双重特性，在水溶液中会形成磷脂双分子层（phospholipidbilayer）的结构，极性头部伸向双分子层的表面，而疏水的尾部则伸向双分子层的内侧。  \n\n（2）糖脂糖脂与磷脂的结构类似，只是由一个或多个糖基代替了磷脂酰碱基而与鞘氨醇的羟基结合。糖脂在膜脂中的含量一般在 $5\\%$ 以下。  \n\n磷脂和糖脂的两条脂肪酸链的长度常为 $14\\!\\sim\\!24$ 碳，其中一条通常为饱和脂肪酸，而另一条则为不饱和脂肪酸。不饱和脂肪酸链使得脂类分子在双分子层中不能紧密排列，这对于保持膜的流动性是十分重要的，而膜的流动性对于膜的许多生理功能又是至关重要的。影响膜流动性的另一个重要因素是温度，由于植物无法移动或调节自身的温度，因此植物细胞膜中不饱和脂肪酸常有较高的比例。",
+          "similarity": 1.6213244199752808
+        },
+        {
+          "book": "细胞生物学 王金发",
+          "chapter": "9 内膜系统与蛋白质分选",
+          "section": "9.1 概述",
+          "subsection": "9.1.1膜性细胞器与内膜系统",
+          "content": "关于真核细胞中具有膜结构细胞器的描述通常有3个概念：膜性细胞器（membrane-boundorganelle）、细胞质膜系统（cytoplasmicmembranesystem）、内膜系统。虽然这3个概念都是指真核细胞中具有膜结构的细胞器，但是在含义上仍有一些差别。膜性细胞器统指细胞质中所有具有膜结构的细胞器，包括细胞核、内质网、高尔基体、溶酶体、分泌泡、内体、线粒体、叶绿体和过氧化物酶体等。细胞质膜系统是指细胞内那些在生物发生上与质膜相关的细胞器，显然不包括线粒体、叶绿体，因为这两种细胞器的膜是独立的。内膜系统有广义与狭义之分，广义的内膜系统就是细胞内所有的膜性细胞器，而狭义的内膜系统是指内质网、高尔基体、细胞核、溶酶体和膜泡（包括内体和分泌泡）5类膜性细胞器，因为它们的膜是相互流动的，处于动态平衡，在功能上也是相互协同的。从本质上说，这些膜性细胞器都是由膜包裹着的、具有不同功能的区室，它们是既相互独立，又相互合作。图9-1显示了动物细胞内区室的形态及其在细胞内的分布。  \n\n图9-1动物细胞内主要的区室（引l自Albertsetal.，2015）细胞内的空间为胞质溶胶，里面被一些膜性细胞 器分隔成许多区室，每个区室至少有一层单位膜包裹，如细胞核、高尔基体、内质网、溶酶体、线粒体等。  \n\n\n\n一般而言，真核细胞内有许多膜性细胞器构成的区室，几乎占据细胞总体积的一半（表9-1）。  \n\n正是由于这些膜性细胞器的形成，使真核细胞内不同功能的蛋白质有了相对集中、独立的“工作间”（表9-2），这不仅有利于节省资源，也极大地提高了效率。  \n\n在细胞内膜性细胞器中，线粒体、叶绿体、过氧化物酶体和细胞核等的独立性很强，并且有独特的功能。其他几种膜性细胞器，如内质网、高尔基体、溶酶体，虽然有不同的结构和功能，但是它们都参与蛋白质的加工、分选和膜泡运输，形成了一个特别的细胞内系统。",
+          "similarity": 1.6204805970191956
+        },
+        {
+          "book": "细胞生物学 王金发",
+          "chapter": "3 细胞质膜与穿膜运输",
+          "section": "3.2 红细胞与细胞膜结构的研究",
+          "subsection": "3.2.2红细胞膜结构的研究",
+          "content": "红细胞具有很多特有的性质，因而其是研究膜结构的最好材料。第一，红细胞生命周期长，数量大，取材容易（体内的血库），极少有其他类型的细胞污染，并且是单个存在，不需要进行组织消化；第二，红细胞的结构简单，成熟的哺乳动物红细胞中没有细胞核和线粒体等膜性细胞器，细胞质膜是它的唯一膜结构，所以分离后不存在其他膜污染的问题；第三，红细胞在低渗溶液中容易破裂，释放出内容物，这样就很容易分离到红细胞的质膜；第四，分离到红细胞质膜后就非常容易分离出红细胞的膜蛋白了。所以，用红细胞做材料研究细胞质膜的结构，其“性价比”很高。  \n\n\n\n关于膜的化学组成和结构的研究始于18世纪90年代，开拓者是C.Overton。他意识到细胞似乎是由一层具有选择性和渗透性的外被包裹的，它只允许某些物质通过。Overton用植物的根毛做实验，发现脂溶性物质很容易进人细胞，而水溶性的物质却不能。实际上他发现了亲脂性（lipophilic）物质与细胞的关系。根据这一研究结果，Overton认为在细胞的外被中有脂的存在。他还进一步推测，细胞的外被中很可能有胆固醇和卵磷脂的存在，这种推测后来被证明是完全正确的。  \n\n关于细胞质膜的化学组成和结构研究的第二个重要进展是I.Langmuir提出的脂单层（lipidmonolayer）的设想。他将纯化的磷脂溶于苯后铺 展在朗格缪尔槽（Langmuirtrough）的水面上，研究了脂的展层行为。实验中，他先将纯化的脂溶于苯，然后将苯-脂溶液置水面上展层，当苯挥发后，留下的脂在水面上形成脂单层，亲水的头部朝向水面，疏水的尾部背离水面（图3-5）。脂单层概念是20世纪初膜结构研究的基础，导致了脂双层的发现。  \n\n\n\n1925年两位荷兰科学家E.Gorter和F.Grendel根据对红细胞质膜的研究首次提出质膜的基本结构是双脂分子层。",
+          "similarity": 1.6198363304138184
+        },
+        {
+          "book": "微生物学-沈萍,陈向东",
+          "chapter": "第3章 微生物细胞的结构与功能",
+          "section": "二、细胞壁以内的构造",
+          "subsection": "二、细胞壁以内的构造",
+          "content": "原核细胞细胞壁以内主要由细胞质膜、细胞质和拟核（核区）3部分组成。  \n\n\n\n细胞质膜（cytoplasmicmembrane）又称质膜（plasmamembrane），是紧贴在细胞壁内侧、包围着细胞质的一层柔软、脆弱、富有弹性的半透性薄膜，厚 $7\\sim8~\\mathrm{nm}$ ，由磷脂（占 $20\\%\\sim30\\%$ ）和蛋白质（占 $50\\%\\sim70\\%$ ）组成。原核生物与真核生物细胞膜的主要差别是前者的蛋白质含量特别高，一般无留醇（仅支原体例外），而后者则蛋白质含量低并普遍含有留醇。  \n\n\n\n细菌的细胞质膜可通过质壁分离、鉴别性染色或原生质体破裂等方法在光学显微镜下观察到。用电子显微镜观察细菌的超薄切片，则可更清楚地观察到它的存在。电镜观察到的细胞质膜，是在上下两暗色层之间夹着一浅色中间层的双层膜结构。这是因为，细胞膜的主要成分为磷脂，由两层磷脂分子按一定规律整齐地排列而成，每一个磷脂分子由一个带正电荷、能溶于水的极性头（磷酸端）和一个不带电荷、不溶于水的非极性尾（烃端）构成。极性头分别朝向内外两表面，呈亲水性，而非极性尾则埋人膜的内层，从而形成了一个磷脂双分子层。在极性头的甘油C3位，不同种微生物具有不同的R基，形成磷脂酸、磷脂酰甘油、磷脂  \n\n酰乙醇胺、磷脂酰胆碱、磷脂酰丝氨酸或磷脂酰 肌醇等（图3-13）。原核生物的细胞质膜多数含磷脂酰甘油，在革兰氏阴性菌中，多数还含有磷脂酰乙醇胺，在分枝杆菌中则含磷脂酰肌醇，等等。而非极性尾则由长链脂肪酸通过酯键连接在甘油C1和C2位上组成，其链长和饱和度因细菌种类和生长温度而异，通常生长温度要求越高的种，其饱和度也越高，反之则低。",
+          "similarity": 1.6191232204437256
+        },
+        {
+          "book": "生物化学 朱圣庚（4上册）",
+          "chapter": "第二章 酶",
+          "section": "第一节 酶的性质",
+          "subsection": "七、生命的基本单位—细胞",
+          "content": "膜上的受体蛋白质向细胞传递信号（如激素），膜酶参与某些代谢反应途径。因为质膜中脂质分子和蛋白质分子不是共价结合的，所以整个膜结构明显具有柔性，允许细胞的形状和大小发生改变。随着细胞的生长，新合成的脂质和蛋白质分子被插入质膜；细胞分裂产生两个细胞，每个细胞都具有自己的质膜。生长和细胞分裂不丢失膜的完整性。  \n\n对于动物细胞，在它的质膜外面常有一层由糖蛋白、蛋白聚糖和脂多糖等组成的柔韧而黏性的覆盖物（coat），它起细胞-细胞识别、细胞通讯和免疫保护等作用（见第9章）。对于植物细胞，质膜外面还有细胞壁，其成分是纤维素、果胶和木质素等，这些成分是细胞代谢的产物（见第9章）；细胞壁的主要功能是支持和保护，同时防止细胞在低渗介质中因吸水而胀裂，以维持细胞正常状态。对于细菌细胞，质膜外面还有肽聚糖构成的细胞壁；有些细菌在细胞壁外面还有一层外膜（见图9-34）。  \n\n\n\n所有的细胞，至少在生命的一段时间，具有核或拟核，在这里储存和复制基因组。拟核存在于细菌和古菌中，它是一个没有膜与它的细胞质隔开的无定形“染色体”，由一个环状分子DNA和有关的蛋白质组成。真核生物中核物质被包裹在一个称为核被膜（nuclearenvelope）的双层膜中。膜上有核孔允许某些物质进出核内外。核内含有染色质、核仁和核基质。染色质（chromatin）是遗传物质，主要成分是DNA和组蛋白。核仁（nucleolus）是富含蛋白质和RNA分子的圆形颗粒状结构，内含转录rRNA的基因（rDNA）。核基质（nuclearmatrix）为透明液体，液体内布满蛋白质构成的纤维状网，染色质和核仁等都在其中  \n\n\n\n\n细胞膜包裹着的内部是【细］胞质，它包括称为细胞溶胶的液体部分和各种具有专一功能的悬浮颗粒，如真核细胞中的各种细胞器。",
+          "similarity": 1.6181276440620422
+        },
+        {
+          "book": "生物化学 朱圣庚（4上册）",
+          "chapter": "第八章 生物膜",
+          "section": "第一节 生物膜的结构",
+          "subsection": "五、生物膜的组成和结构",
+          "content": "地球上第一个细胞可能出现于膜的形成，膜把少量的水溶液包围起来与环境分开。膜不仅规定细胞的外边界，而且控制穿过边界（膜）的分子运输。这层膜称为细胞膜或质膜。此外真核细胞中还有内膜系统（systemof internalmembrane），把内部空间分隔成若干独立的区室（compartment），即所谓细胞器和亚细胞结构。原核细胞的内膜系统不发达，只有少量的内膜结构。细胞的质膜和内膜系统总称为生物膜（biomembrane）。生物膜为组织许多复杂的反应序列、能量转换中心和细胞-细胞通讯中心提供了必要的结构基础。生物膜具有多种功能，生命活动中许多重要过程，如物质运输、能量转换、细胞识别、细胞免疫、神经传导、代谢调控等都与之有关。  \n\n生物膜的研究不仅具有重要的理论意义，而且在工、农、医实践方面也有广阔的应用前景。例如医药方面，几乎所有疾病都与膜的变异有密切关系。很多质膜上的受体可能是药物的靶体。人工膜（脂质体）作为药物载体已经进行了大量研究，有的已经进人临床试验阶段。生物膜的研究已深入到生物医学和生物学的很多领域。  \n\n\n\n要了解膜的功能，一种途径是研究膜的组成，例如测定哪些成分是所有的膜共有的，哪些是具有专一功能的膜所特有的。因此讨论膜的结构和功能之前，需要考虑一下膜的分子成分：蛋白质、极性脂质和糖质。蛋白质和脂质构成生物膜的几乎全部质量，糖只作为糖蛋白和糖脂的一部分（占真核细胞质膜质量的 $2\\%\\sim\\!10\\%$ ）而存在。每种类型的生物膜都含有特定的脂质和蛋白质。脂质和蛋白质的相对比例，因膜的类型不同可以有很大的变动（表10-7）；这反映出生物学功能的多样性。例如神经元的髓鞘（一种延展的质膜）是起电的绝缘体作用的，它主要由脂质组成；而细菌质膜以及线粒体和叶绿体膜是很多酶促过程的场所，膜蛋白[质]的含量比膜脂[质]多。",
+          "similarity": 1.6147531270980835
+        }
+      ],
+      "image": [
+        {
+          "book": "基础生物化学原理",
+          "image_path": "4 基础生物化学原理_origin_page_108_图_10.5.png",
+          "content": "该图示展示细胞膜的结构与功能，属于细胞结构图。\n\n图中展示的是细胞膜的基本组成，主要包括磷脂双层结构。脂质分子呈现为两层，相互交错形成膜的基本框架，磷脂的亲水头部面向外部与内细胞质，亲脂尾部则聚集在双层内部，形成选择性通透的屏障。此外，图中可能还有膜蛋白的分布，参与物质运输和信号传导，箭头指示特定物质的进出路径，标注则表明膜的功能区分。\n\n该图有助于学生理解细胞膜的构造与其在细胞生理中的重要性，强调了膜的选择性和动态性质。\n\n在生物医学领域，细胞膜的研究是药物递送系统、细胞信号传导等的基础。膜的功能和结构与其他细胞器，如内质网和高尔基体，密切相关，共同调控细胞的生理活动。",
+          "similarity": 1.6839419603347778
+        },
+        {
+          "book": "遗传学：从基因到基因组",
+          "image_path": "37 遗传学：从基因到基因组（6）_origin_page_249_图_38.png",
+          "content": "该图示阐明了细胞膜的结构与功能，通过结构图形式展现了生物膜的基本组成单位。\n\n图中展示了细胞膜内外部的不同环境，主要由磷脂双层构成，突出了膜的流动性和选择透过性。核心部分为几个球形结构，代表磷脂分子，头部亲水，尾部疏水，形象地描述了磷脂双层如何自组装形成细胞膜。图中的箭头指向膜的不同区域，表明内外部的分子结构差异与其在保护细胞和调节物质进出方面的重要性。\n\n该图在教学中帮助学生理解细胞膜的基本功能机制，强调膜的选择性透过性以及其在细胞生理中的重要性。\n\n细胞膜的结构不仅与细胞的物质交换密切相关，还与许多细胞信号转导过程息息相关，进一步体现了生物膜在细胞功能中的多重角色。",
+          "similarity": 1.6818548440933228
+        },
+        {
+          "book": "微生物学教程-周德庆",
+          "image_path": "11 微生物学教程-周德庆（4）_origin_page_36_图_30.png",
+          "content": "该图展示了细胞膜的组成及其相关特征，是一幅结构图。 \n\n图中明确区分了细胞膜的不同层次结构，包括磷脂双层和糖被层。磷脂双层由磷脂分子排列而成，其亲水性部分指向外侧，形成稳定的生物膜。糖被层则由糖蛋白和糖脂构成，位于膜的外侧，主要功能为细胞识别和信号传递。图内箭头指示了不同组分的相互关系，标注解释了各部分的功能。\n\n此图在教学中的作用是优化学生对细胞膜结构及功能的理解，特别是生物膜的选择透过性和细胞识别机制。\n\n在实际应用中，细胞膜的结构意义重大，它对细胞与外界环境的相互作用有重要影响。此外，细胞膜的组成与膜蛋白的功能相辅相成，深刻影响着细胞的各种生理活动。",
+          "similarity": 1.6778979897499084
+        },
+        {
+          "book": "普通动物学",
+          "image_path": "20 普通动物学（4）_origin_page_40_图_1.png",
+          "content": "该图示展示了细胞膜的结构及其功能，属于细胞生物学中的结构图。\n\n该图重点解释了细胞膜由磷脂双层、蛋白质及其他分子构成的复合结构。磷脂双层的主要功能是形成细胞的屏障，保持内外环境的稳定。图中可以看到与细胞膜有关的关键结构，包括膜蛋白（如糖蛋白与脂质）和糖类，这些成分通过相互作用维持细胞膜的流动性和选择透过性。箭头指示了膜内外物质的运输方向，强调了物质跨膜转运的动态过程，如扩散和主动运输。\n\n该图在教学中帮助学生直观理解细胞膜的复合结构及其功能，为后续的膜生物学及细胞信号传导的学习打下基础。\n\n细胞膜的研究在膜生物学及药物传递、细胞信号传递等领域具有重要应用，也与细胞内的代谢过程息息相关。了解细胞膜的功能与组成对于学习细胞的基本生命活动至关重要。",
+          "similarity": 1.673962116241455
+        },
+        {
+          "book": "细胞生物学",
+          "image_path": "6 细胞生物学（5）_origin_page_46_图_59.png",
+          "content": "该图示主要展示细胞膜的结构与功能，是一幅细胞膜的示意图。\n\n此图介绍了细胞膜的基本组成和其功能，显示了膜的外表面、细胞质和细胞内的主要结构。细胞膜由脂质双层和嵌入的蛋白质构成，箭头和标注指明各组成部分，如“抗原”与“抗体”的相互作用。图中展示了细胞膜的选择性透过性及其对细胞环境的保护作用，同时反映了膜上蛋白质的多样性与功能。\n\n该图在教学中起到形象化复杂生物结构的作用，并有助于学生理解细胞膜在物质交换、信号传导中的重要性。\n\n这一生物学概念与免疫系统、细胞通讯等领域密切相关，理解细胞膜的结构与功能，对于深入研究细胞生理和病理变化具有重要意义。注意在实验和观察中，细胞膜的透过性与介质浓度、温度等因素存在显著关系。",
+          "similarity": 1.672330617904663
+        }
+      ]
+    },
+    "en": {
+      "text": [
+        {
+          "book": "Campbell Biology",
+          "chapter": "Chapter 7: Membrane Structure and Function",
+          "section": "Transport Proteins",
+          "subsection": "KEY CONCEPTS",
+          "content": "7.1 Cellular membranes are fluid mosaics of lipids and proteins p. 127  \n7.2 Membrane structure results in selective permeability p. 131  \n7.3 Passive transport is diffusion of a substance across a membrane with no energy investment p. 132  \n7.4 Active transport uses energy to move solutes against their gradients p. 136  \n7.5 Bulk transport across the plasma membrane occurs by exocytosis and endocytosis p. 139  \n\nPlant cell walls are made of cellulose fibers embedded in other polysaccharides and proteins.  \nAnimal cells secrete glycoproteins and proteoglycans that form the extracellular matrix (ECM), which functions in support, adhesion, movement, and regulation.  \nCell junctions connect neighboring cells. Plants have plasmodesmata that pass through adjoining cell walls. Animal cells have tight junctions, desmosomes, and gap junctions.  \n\n$\\circledcirc$ Compare the structure and functions of a plant cell wall and the extracellular matrix of an animal cell.  \n\nMany components work together in a functioning cell.  \n\nCyanide binds to at least one molecule involved in producing ATP. In a cell exposed to cyanide, most of the cyanide will be in (A) mitochondria. (C) peroxisomes. (B) ribosomes. (D) lysosomes.  \nWhich cell would be best for studying lysosomes? (A) muscle cell (C) bacterial cell (B) nerve cell (D) phagocytic white blood cell  \n\nDRAW IT Draw two eukaryotic cells. Label the structures listed here and show any physical connections between the structures of each cell: nucleus, rough ER, smooth ER, mitochondrion, centrosome, chloroplast, vacuole, lysosome, microtubule, cell wall, ECM, microfilament, Golgi apparatus, intermediate filament, plasma membrane, peroxisome, ribosome, nucleolus, nuclear pore, vesicle, flagellum, microvilli, plasmodesma.  \n\nEVOLUTION CONNECTION (a) What cell structures best reveal evolutionary unity? (b) Give an example of diversity related to specialized cellular modifications.  \nSCIENTIFIC INQUIRY Imagine protein X, destined to span the plasma membrane; assume the mRNA carrying the genetic message for protein X has been translated by ribosomes in a cell culture. If you fractionate the cells, in which fraction would you find protein X? Explain by describing its transit.  \nWRITE ABOUT A THEME: ORGANIZATION Write a short essay (100–150 words) on this topic: Life is an emergent property that appears at the level of the cell.  \n\nThe cells in this SEM are epithelial cells from the small intestine. Discuss how their cellular structure contributes to their specialized functions of nutrient absorption and as a barrier between the intestinal contents and the blood supply on the other side of the sheet of epithelial cells.",
+          "similarity": 1.6083074808120728
+        },
+        {
+          "book": "Human Physiology An Integrated Approach",
+          "chapter": "Chapter 3: Compartmentation: Cells and Tissues",
+          "section": "Membranes Are Mostly Lipid and Protein",
+          "subsection": "Membranes Are Mostly Lipid and Protein",
+          "content": "In the early decades of the twentieth century, researchers trying to decipher membrane structure ground up cells and analyzed their composition. They discovered that all biological membranes consist of a combination of lipids and proteins plus a small amount of carbohydrate. However, a simple and uniform structure did not account for the highly variable properties of membranes found in different types of cells. How could water cross the cell membrane to enter a red blood cell but not be able to enter certain cells of the kidney tubule? The explanation had to lie in the molecular arrangement of the proteins and lipids in the various membranes.\n\nThe ratio of protein to lipid varies widely, depending on the source of the membrane (TBL. 3.1). Generally, the more metabolically active a membrane is, the more proteins it contains. For example, the inner membrane of a mitochondrion, which contains enzymes for ATP production, is three-quarters protein.\n\nThis chemical analysis of membranes was useful, but it did not explain the structural arrangement of lipids and proteins in a membrane. Studies in the 1920s suggested that there was enough lipid in a given area of membrane to create a double layer. The bilayer model was further modified in the 1930s to account for the presence of proteins. With the introduction of electron microscopy, scientists saw the cell membrane for the first time. The 1960s model of the membrane, as seen in electron micrographs, was a “butter sandwich”—a clear layer of lipids sandwiched between two dark layers of protein.\n\nBy the early 1970s, freeze-fracture electron micrographs had revealed the actual three-dimensional arrangement of lipids and proteins within cell membranes. Because of what scientists learned from looking at freeze-fractured membranes, S. J. Singer and G. L. Nicolson in 1972 proposed the fluid mosaic model of the membrane. FIGURE 3.2 highlights the major features of this contemporary model of membrane structure.\n\nThe lipids of biological membranes are mostly phospholipids arranged in a bilayer so that the phosphate heads are on the membrane surfaces and the lipid tails are hidden in the center of the membrane (Fig. 3.2b). The cell membrane is studded with protein molecules, like raisins in a slice of bread, and the extracellular surface has glycoproteins and glycolipids. All cell membranes are of relatively uniform thickness, about 8 nm.",
+          "similarity": 1.6003897190093994
+        },
+        {
+          "book": "Campbell Biology",
+          "chapter": "Chapter 7: Membrane Structure and Function",
+          "section": "Transport Proteins",
+          "subsection": "A Panoramic View of the Eukaryotic Cell",
+          "content": "In addition to the plasma membrane at its outer surface, a eukaryotic cell has extensive, elaborately arranged internal membranes that divide the cell into compartments—the organelles mentioned earlier. The cell’s compartments provide different local environments that support specific metabolic functions, so incompatible processes can occur simultaneously in a single cell. The plasma membrane and organelle membranes also participate directly in the cell’s metabolism because many enzymes are built right into the membranes.\n\nThe basic fabric of most biological membranes is a double layer of phospholipids and other lipids. Embedded in this lipid bilayer or attached to its surfaces are diverse proteins. However, each type of membrane has a unique composition of lipids and proteins suited to that membrane’s specific functions. For example, enzymes embedded in the membranes of the organelles called mitochondria function in cellular respiration. Because membranes are so fundamental to the organization of the cell, Chapter 7 will discuss them in detail.\n\nBefore continuing with this chapter, examine the eukaryotic cells. The generalized diagrams of an animal cell and a plant cell introduce the various organelles and show the key differences between animal and plant cells. The micrographs at the bottom of the figure give you a glimpse of cells from different types of eukaryotic organisms.",
+          "similarity": 1.5862882137298584
+        },
+        {
+          "book": "Karp's Cell and Molecular Biology",
+          "chapter": "CHAPTER 4: The Structure and Function of the Plasma Membrane",
+          "section": "4.1 Introduction to the Plasma Membrane",
+          "subsection": "CHAPTER 4 The Structure and Function of the Plasma Membrane",
+          "content": "4.1 Introduction to the Plasma Membrane  \n\nThe plasma membrane is a vital structure that delineates the boundary of the cell, maintaining the internal environment and facilitating communication with the external environment. It is primarily composed of a phospholipid bilayer interspersed with proteins, cholesterol, and carbohydrates, which contribute to its fluidity and functionality.\n\n4.2 The Chemical Composition of Membranes  \n\nThe chemical composition of membranes is crucial for their function. The phospholipid bilayer forms the fundamental structure, with hydrophilic heads facing outward and hydrophobic tails facing inward. This arrangement creates a semi-permeable barrier that regulates the movement of substances in and out of the cell. Proteins embedded in the membrane serve various roles, including transport, signaling, and structural support. Cholesterol molecules are interspersed within the bilayer, providing stability and fluidity to the membrane. Carbohydrates attached to proteins and lipids on the extracellular surface play a key role in cell recognition and communication.",
+          "similarity": 1.5816036462783813
+        },
+        {
+          "book": "Molecular Biology of The Cell",
+          "chapter": "Chapter 10: Membrane Structure",
+          "section": "The Lipid Bilayer",
+          "subsection": "THE LIPID BILAYER",
+          "content": "Cell membranes are crucial to the life of the cell. The plasma membrane encloses the cell, defines its boundaries, and maintains the essential differences between the cytosol and the extracellular environment. Without plasma membranes, cells could not have evolved as individual self-replicating units. Inside eukaryotic cells, the membranes of the nucleus, endoplasmic reticulum, Golgi apparatus, mitochondria, and other membrane-enclosed organelles maintain the characteristic differences between the contents of each organelle and the cytosol. Ion gradients across membranes, established by the activities of specialized membrane proteins, can be used to synthesize ATP, to drive the transport of selected solutes across the membrane, or, as in nerve and muscle cells, to produce and transmit electrical signals. In all cells, the plasma membrane also contains proteins that act as sensors of external signals, allowing the cell to change its behavior in response to environmental cues, including signals from other cells; these protein sensors, or receptors, transfer information—rather than molecules—across the membrane.\n\nDespite their differing functions, all biological membranes have a common general structure: each is a very thin film of lipid and protein molecules, held together mainly by noncovalent interactions. Cell membranes are dynamic, fluid structures, and most of their molecules move about in the plane of the membrane. The lipid molecules are arranged as a continuous double layer about $5\\,\\mathrm{nm}$ thick. This lipid bilayer provides the basic fluid structure of the membrane and serves as an essentially impermeable barrier to the passage of most water-soluble molecules. Most membrane proteins span the lipid bilayer and mediate nearly all of the other functions of the membrane, including the transport of specific molecules across it, and the catalysis of membrane-associated reactions such as ATP synthesis. In the plasma membrane, some transmembrane proteins serve as structural links that connect the cytoskeleton through the lipid bilayer to either the extracellular matrix or an adjacent cell, while others serve as receptors to detect and transduce chemical signals in the cell’s environment. It takes many kinds of membrane proteins to enable a cell to function and interact with its environment, and it is estimated that about $30\\%$ of the proteins encoded in an animal’s genome are membrane proteins.\n\nIn this chapter, we consider the structure and organization of the two main constituents of biological membranes—the lipids and the proteins. Although we focus mainly on the plasma membrane, most concepts discussed apply to the various internal membranes of eukaryotic cells as well. The functions of cell membranes are considered in later chapters: their role in energy conversion and ATP synthesis, for example, is discussed in Chapter 14; their role in the transmembrane transport of small molecules in Chapter 11; and their roles in cell signaling and cell adhesion in Chapters 15 and 19, respectively. In Chapters 12 and 13, we discuss the internal membranes of the cell and the protein traffic through and between them.",
+          "similarity": 1.5731694102287292
+        },
+        {
+          "book": "Raven Biology of Plants",
+          "chapter": " The Movement of Substances into and out of Cells",
+          "section": "Structure of Cellular Membranes",
+          "subsection": "Structure of Cellular Membranes",
+          "content": "All of the membranes of the cell have the same basic structure, consisting of a lipid bilayer in which are embedded globular proteins, many of which extend across the bilayer and protrude on either side (Figure 4–9). The portion of these transmembrane proteins embedded in the bilayer is hydrophobic, whereas the portions exposed on either side of the membrane are hydrophilic.",
+          "similarity": 1.5722718238830566
+        },
+        {
+          "book": "Raven Biology of Plants",
+          "chapter": " The Movement of Substances into and out of Cells",
+          "section": "Cell-to-Cell Communication",
+          "subsection": "Membranes Consist of a Lipid Bilayer and Proteins",
+          "content": "The plasma membrane and other cellular membranes are composed of lipid bilayers in which proteins are embedded. The lipid bilayer provides the basic structure and impermeable nature of the membrane. In plant cells, the major types of lipids are phospholipids (the more abundant) and sterols. Different membrane proteins perform different functions; some are enzymes, others are receptors, and still others are transport proteins. The two surfaces of a membrane differ considerably in chemical composition. The exterior surface of the plasma membrane is characterized by short carbohydrate chains that are believed to play important roles in the recognition of molecules that interact with the cell.",
+          "similarity": 1.565996766090393
+        },
+        {
+          "book": "Brock Biology of Microorganisms",
+          "chapter": "•The Cell Envelope",
+          "section": "2.1 The Cytoplasmic Membrane",
+          "subsection": "2Microbial Cell Structure and Function",
+          "content": "I The Cell Envelope  75   \nII Cell Surface Structures and Inclusions  87   \nIII\t Cell Locomotion  94   \nIV\t Eukaryotic Microbial Cells  102",
+          "similarity": 1.5594066977500916
+        },
+        {
+          "book": "Karp's Cell and Molecular Biology",
+          "chapter": "CHAPTER 4: The Structure and Function of the Plasma Membrane",
+          "section": "4.2 The Chemical Composition of Membranes",
+          "subsection": "Chapter Title",
+          "content": "FIGURE 4.3 The plasma membrane contains a lipid bilayer. (a) Calculating the surface area of a lipid preparation. When a sample of phospholipids is dissolved in an organic solvent, such as hexane, and spread over an aqueous surface, the phospholipid molecules form a layer over the water that is a single molecule thick: a monomolecular layer. The molecules in the layer are oriented with their hydrophilic groups bonded to the surface of the water and their hydrophobic chains directed into the air. To estimate the surface area the lipids would cover if they were part of a membrane, the lipid molecules can be compressed into the smallest possible area by means of movable barriers. Using this type of apparatus, which is called a Langmuir trough after its inventor, Gorter and Grendel concluded that red blood cells contained enough lipids to form a layer over their surface that was two molecules thick: a bilayer. (b) As Gorter and Grendel first proposed, the core of a membrane contains a bimolecular layer of phospholipids oriented with their water-soluble head groups facing the outer surfaces and their hydrophobic fatty acid tails facing the interior. The structures of the head groups are given in Figure 4.6 a. (c) Simulation of a fully hydrated lipid bilayer composed of the phospholipid phosphatidylcholine. Phospholipid head groups are purple, water molecules are blue, and fatty acid chains are green.\n\nIn the 1920s and 1930s, cell physiologists obtained evidence that there must be more to the structure of membranes than simply a lipid bilayer. It was found, for example, that lipid solubility was not the sole determining factor as to whether a substance could penetrate the plasma membrane. Similarly, the surface tensions of membranes were calculated to be much lower than those of pure lipid structures. This decrease in surface tension could be explained by the presence of protein in the membrane.\n\nThis protein is present in the form of individual protein molecules and protein complexes that penetrate a fluid lipid bilayer (Figure 4.4a) and extend out into the surrounding aqueous environment (Figure $4.4b$). Because of the fluidity of the lipid bilayer, cellular membranes are dynamic structures in which the components are mobile and capable of coming together to engage in various types of transient or semipermanent interactions.\n\nFIGURE 4.4 Plasma membranes as lipids plus proteins. (a) A representation of the plasma membrane showing the organization of proteins embedded in the lipid bilayer. The external surface of most membrane proteins, as well as a small percentage of the phospholipids, contains short chains of sugars, making them glycoproteins and glycolipids. Those portions of the polypeptide chains that extend through the lipid bilayer typically occur as α helices composed of hydrophobic amino acids. The two leaflets of the bilayer contain different types of lipids as indicated by the differently colored head groups. (b) Molecular model of the membrane of a synaptic vesicle constructed using known structures of the various proteins along with information on their relative numbers obtained from the analysis of purified synaptic vesicles. The high protein density of the membrane is apparent. Most of the proteins in this membrane are required for the interaction of the vesicle with the plasma membrane. The large blue protein at the lower right pumps $\\mathbf{H}^{+}$ ions into the vesicle.",
+          "similarity": 1.5585227012634277
+        },
+        {
+          "book": "Campbell Biology",
+          "chapter": "Chapter 7: Membrane Structure and Function",
+          "section": "Transport Proteins",
+          "subsection": "Synthesis and Sidedness of Membranes",
+          "content": "Membranes have distinct inside and outside faces. The two lipid layers may differ in lipid composition, and each protein has directional orientation in the membrane. The asymmetrical arrangement of proteins, lipids, and their associated carbohydrates in the plasma membrane is determined as the membrane is being built.",
+          "similarity": 1.5582574605941772
+        },
+        {
+          "book": "Molecular Biology of The Cell",
+          "chapter": "Chapter 10: Membrane Structure",
+          "section": "Glycerophospholipids, Sphingolipids, and Sterols Are the Major Lipids in Cell Membranes",
+          "subsection": "Glycerophospholipids, Sphingolipids, and Sterols Are the Major Lipids in Cell Membranes",
+          "content": "The lipid bilayer provides the basic structure for all cell membranes. It is easily seen by electron microscopy, and its bilayer structure is attributable exclusively to the special properties of the lipid molecules, which assemble spontaneously into bilayers even under simple artificial conditions. In this section, we discuss the different types of lipid molecules found in cell membranes and the general properties of lipid bilayers.",
+          "similarity": 1.5534616708755493
+        },
+        {
+          "book": "Plant Physiology and Development Taiz",
+          "chapter": "CHAPTER 13 Respiration and Lipid Metabolism",
+          "section": "Polar glycerolipids are the main structural lipids in membranes",
+          "subsection": "Polar glycerolipids are the main structural lipids in membranes",
+          "content": "As outlined in Chapter 1, each membrane in the cell is a bilayer of amphipathic (i.e., having both hydrophilic and hydrophobic regions) lipid molecules in which a polar head group interacts with the aqueous environment while hydrophobic fatty acid chains form the core of the membrane. This hydrophobic core prevents unregulated diffusion of solutes between cell compartments and thereby allows the metabolism of the cell to be organized.\n\nThe main structural lipids in membranes are the polar glycerolipids (see Figure 13.15), in which the hydrophobic portion consists of two 16-carbon or 18-carbon fatty acid chains esterified to positions 1 and 2 of a glycerol backbone. The polar head group is attached to position 3 of the glycerol. There are two categories of polar glycerolipids:\n\n1. Glyceroglycolipids, in which sugars form the head group (Figure 13.16A)\n\n2. Glycerophospholipids, in which the head group contains phosphate (Figure 13.16B)\n\nPlant membranes have additional structural lipids, including sphingolipids and sterols, which are structural and functional components of the plasma membrane (see Chapters 1 and 4). Other lipids perform specific roles in photosynthesis and other processes. Included among these lipids are chlorophylls, plastoquinone, ubiquinone, carotenoids, and tocopherols, which together account for about one-third of the lipids in plant leaves.\n\nFigure 13.16 shows the nine major polar glycerolipid classes in plants, each of which can be associated with many different fatty acid combinations. The structures shown in Figure 13.16 illustrate some of the more common molecular species.\n\nChloroplast membranes, which account for $70\\%$ of the membrane lipids in photosynthetic tissues, are dominated by glyceroglycolipids; other membranes of the cell contain glycerophospholipids (Table 13.4). In nonphotosynthetic tissues, glycerophospholipids are the major membrane glycerolipids. Interestingly, under phosphate starvation, many plant species partially replace glycerophospholipids with glyceroglycolipids, to allow some recovery of phosphate for the synthesis of RNA and other phosphorus-rich compounds.",
+          "similarity": 1.5517549514770508
+        },
+        {
+          "book": "Brock Biology of Microorganisms",
+          "chapter": "•The Cell Envelope",
+          "section": "2.1 The Cytoplasmic Membrane",
+          "subsection": "I •The Cell Envelope",
+          "content": "The cytoplasm of the prokaryotic cell is surrounded by several layers that include a membrane, a cell wall, and other structures specific to the kind of cell. Collectively, these layers form the cell envelope and are essential for preserving the integrity and functioning of the cell.\n\nThe cell envelope consists of a series of layered structures that surround the cytoplasm and govern cellular interactions with the external environment. The cell envelope has many important functions: It governs transport of nutrients into the cell and wastes out of the cell, it is the site of energy conservation, it governs cell shape, it protects the cell from mechanical stress, and it can help the cell attach to surfaces and even protect the cell from attack.\n\nThe diversity of microorganisms is in part reflected in the composition of the cell envelope; but we will also learn that certain envelope structures are highly conserved and that knowledge of cell envelope structure can help us to identify and classify microorganisms. In the first few sections, we will learn about major components of cell envelope structure including the cytoplasmic membrane, cell wall, outer membrane, and S-layers. We start our tour by considering the cytoplasmic membrane, a structure found in all cells.",
+          "similarity": 1.5500995516777039
+        },
+        {
+          "book": "Molecular Biology of The Cell",
+          "chapter": "Chapter 10: Membrane Structure",
+          "section": "Transmembrane α Helices Often Interact with One Another",
+          "subsection": "Cells Can Confine Proteins and Lipids to Specific Domains Within a Membrane",
+          "content": "The recognition that biological membranes are two-dimensional fluids was a major advance in understanding membrane structure and function. It has become clear, however, that the picture of a membrane as a lipid sea in which all proteins float freely is greatly oversimplified. Most cells confine membrane proteins to specific regions in a continuous lipid bilayer. We have already discussed how bacteriorhodopsin molecules in the purple membrane of Halobacterium assemble into large two-dimensional crystals, in which individual protein molecules are relatively fixed in relationship to one another. ATP synthase complexes in the inner mitochondrial membrane associate into long double rows. Large aggregates of this kind diffuse very slowly.\n\nIn epithelial cells, such as those that line the gut or the tubules of the kidney, certain plasma membrane enzymes and transport proteins are confined to the apical surface of the cells, whereas others are confined to the basal and lateral surfaces. This asymmetric distribution of membrane proteins is often essential for the function of the epithelium. The lipid compositions of these two membrane domains are also different, demonstrating that epithelial cells can prevent the diffusion of lipid as well as protein molecules between the domains. The barriers set up by a specific type of intercellular junction (called a tight junction) maintain the separation of both protein and lipid molecules.",
+          "similarity": 1.5458080768585205
+        },
+        {
+          "book": "Integrated Principles of Zoology",
+          "chapter": "CHAPTER 2",
+          "section": "2.5 Precambrian Life",
+          "subsection": "Membrane and Cytoskeleton",
+          "content": "A plasma membrane separates a unicellular eukaryote from its surrounding medium. The membrane is a selectively permeable phospholipid bilayer able to control the traffic of a wide range of chemical substances across it (see Chapter 3). Immediately beneath the plasma membrane, and bound to it, is an actin cortex with associated actin-binding proteins (ABPs). The cell cortex influences shape and other properties of the plasma membrane. Moving inward from the cortex, cell cytoplasm consists of a fluid portion, called cytosol, and the numerous organelles and membranes that exist outside the nuclear envelope (Figure 11.4A).",
+          "similarity": 1.545523226261139
+        }
+      ],
+      "image": [
+        {
+          "book": "Raven Biology of Plants",
+          "image_path": "18 Raven Biology of Plants（8）_origin_page_79_图_3.5.png",
+          "content": "该示意图展示了植物细胞壁的详细结构，属于结构图类型。\n\n图中详细阐述了细胞壁的组成与功能。细胞壁由多个层次构成，包括最外层的中层胶质（middle lamella）、初生壁（primary wall）和由三层组成的次生壁（three-layered secondary wall）。细胞壁的主要成分是纤维素，形成了不同尺寸的纤维束。在图(b)中，显示了最大的纤维束——宏纤维（macrofribril），可通过光学显微镜观察；图(c)则展示了在电子显微镜下，宏纤维可进一步细分为宽约10至25纳米的微纤维（microfibril）。图(d)中，微纤维作为微胶束（micelle）排列，展现出井然有序的结构，赋予细胞壁晶体特性。而图(e)则呈现了微胶束的构造，显示了纤维素分子在晶格排列中的作用。\n\n此图在教学中具有重要的作用，帮助学生理解植物细胞壁的复杂结构与其功能之间的关联，强调不同层次结构对细胞壁的力学性能和功能的影响。\n\n相关的生物学应用包括植物生长、果实成熟以及植物抗逆境的研究。深入理解细胞壁的结构还能够与细胞膜的功能相联系，为进一步的生物技术应用奠定基础。",
+          "similarity": 1.5579516887664795
+        },
+        {
+          "book": "Raven Biology of Plants",
+          "image_path": "18 Raven Biology of Plants（8）_origin_page_61_图_54.5.png",
+          "content": "该示意图展示了细胞膜的结构及其与细胞壁的关系，属于截面图类型。\n\n图中详细展示了细胞膜的三层结构，即暗-亮-暗的排列，以及细胞壁的位置。细胞膜位于两个细胞之间，显示了细胞的相对位置。重要的组成部分包括细胞膜和细胞壁，细胞膜的三层结构表明其双层磷脂的存在，通常与蛋白质和糖分子共同构成。图中的箭头指向细胞膜边界，强调了其与细胞壁的分界及相互作用。图例中的数值说明如0.25 μm，提供了结构的尺寸。\n\n该图在教学中帮助学生理解细胞膜的基本结构及其与细胞壁的关系，关键在于视觉化细胞膜的复杂性和细胞壁的角色。\n\n该示意图与植物细胞生理和生化过程密切相关，特别是在细胞相互作用和物质通道方面。理解细胞膜的结构，有助于深入探讨细胞如何与外部环境进行物质交换和信号传导。",
+          "similarity": 1.5574199557304382
+        },
+        {
+          "book": "Campbell Biology",
+          "image_path": "2 Campbell Biology（12）_origin_page_175_图_31.png",
+          "content": "该示意图展示了细胞膜的结构及其关键组成部分，属于结构图类型。\n\n图中详细展示了细胞膜的磷脂双层结构，左侧为细胞质，右侧为细胞外液。细胞膜的主要成分为磷脂分子，其亲水性头部朝外，疏水性尾部朝内，形成双层。图中还特别标注了糖蛋白的结构，指明其由碳水化合物和蛋白质组成。糖蛋白在细胞膜中发挥重要作用，如参与细胞识别和信号传导。箭头和标注清晰地指出了不同成分之间的关系及其生物学意义。\n\n该图在教学中能够帮助学生理解细胞膜的基本结构和功能，强调膜的选择性渗透性以及在细胞间相互作用中的作用。\n\n细胞膜的结构与许多生物学现象密切相关，如细胞信号传导、物质转运等。理解这一概念是进一步学习细胞生物学和生物化学的基础。",
+          "similarity": 1.5483530759811401
+        },
+        {
+          "book": "Raven Biology of Plants",
+          "image_path": "18 Raven Biology of Plants（8）_origin_page_72_图_93.png",
+          "content": "该示意图展示了细胞结构中的超微构造，属于结构图类型。\n\n图中显示了细胞膜及其相关的细胞器。在(a)部分，可以观察到较细的膜结构和突起的细胞膜，这可能表示内吞作用，其中膜内陷并包裹外部物质形成内泡。在(b)部分，较大的球形细胞器显现出周围的膜状结构，可能是内质网或高尔基体，参与物质运输和加工。箭头指示的部位标志了细胞膜与细胞器之间的界面，强调了它们在细胞物质交换中的重要性。\n\n该图在教学中帮助学生理解细胞内膜系统及细胞器的功能，特别是在物质转运和细胞内环境维持方面的作用。它清晰地展示了细胞结构的复杂性，关键视觉元素如箭头和标注增强了内容的可读性。\n\n此图的应用场景包括细胞生物学课程，帮助学生理解细胞膜的动态特性和细胞器的功能，也可以与细胞信号传导和物质代谢等概念相结合，深化理解。注意，观察这些结构的细微之处有助于理解细胞如何在功能上保持其生物学稳定性。",
+          "similarity": 1.542064905166626
+        },
+        {
+          "book": "Raven Biology of Plants",
+          "image_path": "18 Raven Biology of Plants（8）_origin_page_371_图_9.png",
+          "content": "图示展示了细胞壁的显微结构，属于结构图类型。\n\n该图详细描绘了植物细胞壁的组成和结构特征，呈现出为六角形和多边形的网状结构。细胞壁主要由纤维素、半纤维素和木质素等多种成分构成，这些成分相互交错形成坚韧但又具一定弹性的框架。图中箭头及标注可能指示细胞壁的不同层次及其功能，如提供支持、保护细胞以及介导物质交换等。关键在于理解细胞壁的厚度以及其相应的生物学功能，如对细胞形态和植物生长的影响。\n\n此图在教学中有助于学生直观理解植物细胞壁的微观结构及其生物学意义，强调了细胞壁对植物生长和适应环境的重要性。\n\n结合生物学应用，细胞壁在植物的抗逆性、气体交换等方面扮演着重要角色。此外，细胞壁的结构也与其他细胞组分如细胞膜、质外体相互联系，有助于理解细胞整体功能。",
+          "similarity": 1.5409032106399536
+        }
+      ]
+    }
+  }
+}

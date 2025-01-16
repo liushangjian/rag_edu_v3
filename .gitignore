@@ -1,0 +1,17 @@
+__pycache__/
+
+logs/
+
+.DS_Store
+
+.env
+
+rag_test_results.jsonl
+
+rag_logs.jsonl
+
+rag_error_logs.jsonl
+
+test_logs/llm.py
+__pycache__/
+*.pyc
